@@ -11,8 +11,8 @@
 
 #### 使用方式
 
-1. 启用 Clash 的允许局域网连接/Allow Lan
-2. 设置 Clash 的端口为默认的 `7890`
+1. 启用 Clash Verge 的允许局域网连接/Allow Lan
+2. 设置 Clash Verge 的端口为默认的 `7897`
 3. 克隆本仓库
 4. 执行 `chmod +x install_wsl_proxy.sh wsl_proxy.sh`
 5. 执行 `./install_wsl_proxy.sh`
